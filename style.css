@@ -1,0 +1,51 @@
+.bigBlue {
+    font-size: 50px;
+    color: aquamarine;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+    background: black;
+    color: white;
+    font-family: 'Questrial', sans-serif;
+}
+
+a {
+    color: red;
+}
+.profile {
+    width: 400px;
+    float: left;
+}
+
+.contact {
+    width: 200px;
+    float: left;
+}
+
+img {
+    width: 150px;
+    float: left;
+    padding: 10px;
+    margin-top: 15px;
+}
+p {
+    width: 150px;
+    float: left;
+    background-color: orange;
+    font-family: 'Gloria Hallelujah', cursive;
+}
+
+#portfolio:hover {
+    color: white;
+    background: black;
+}
+#portfolio:focus {
+    color: purple;
+    background: yellow;
+}
+#portfolio:active {
+    color: black;
+    background: grey;
+}
